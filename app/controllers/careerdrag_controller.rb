@@ -1,0 +1,2 @@
+class CareerdragController < ApplicationController
+end

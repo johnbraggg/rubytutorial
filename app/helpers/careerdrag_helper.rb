@@ -1,0 +1,2 @@
+module CareerdragHelper
+end
